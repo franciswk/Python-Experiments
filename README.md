@@ -18,4 +18,4 @@ My data science competencies include:
 
 In order to test the inclusion of a photograph, I've included a photo of a virus infected plant I studied.
 
-![Virus Infected SweetPotato Plant](https://github.com/franciswk/Python-Experiments/blob/main/1656773723901.jpg)
+![Virus Infected SweetPotato Plant](https://github.com/franciswk/Python-Experiments/blob/main/Mugande_Infected.jpg)
