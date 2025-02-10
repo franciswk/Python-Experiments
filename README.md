@@ -3,16 +3,10 @@ This repository contains the initial code I created when learning to use Github 
 
 __________________________________________________________________________________________________________________________________________________________________
 
-# Plan
-
-__________________________________________________________________________________________________________________________________________________________________
-
+## Plan
 Future pland for this repository include adding a sample data file  and a [Jupyter](http://localhost:8888/notebooks/OneDrive%20-%20Mississippi%20State%20University/Untitled.ipynb) notebook that will interact with the file.
 
-# About Me
-
-__________________________________________________________________________________________________________________________________________________________________________
-
+## About Me
 I am Francis W. K, and I work at MSU. **Data Science** is becoming one of my passions.
 
 My data science competencies include:
@@ -24,4 +18,4 @@ My data science competencies include:
 
 In order to test the inclusion of a photograph, I've included a photo of a virus infected plant I studied.
 
-![Virus Infected SweetPotato Plant](https://github.com/franciswk/Python-Experiments/blob/main/1656773723901.jpg "Virus Infected SweetPotato Plant")
+![Virus Infected SweetPotato Plant](https://github.com/franciswk/Python-Experiments/blob/main/1656773723901.jpg)
